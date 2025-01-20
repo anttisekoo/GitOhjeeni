@@ -1,5 +1,5 @@
-# GitOhjeeni
-Ohjeeni Gitin sekä GitHubin käyttämiseen
+# Git
+Tietoja Gitistä sekä GitHubista
 
 
 ## Git
